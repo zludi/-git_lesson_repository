@@ -1,1 +1,1 @@
-print('my first git program')
+print('my firogram')
